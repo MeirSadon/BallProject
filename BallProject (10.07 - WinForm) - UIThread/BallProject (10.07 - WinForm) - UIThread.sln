@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BallProject (10.07 - WinForm) - UIThread", "BallProject (10.07 - WinForm) - UIThread\BallProject (10.07 - WinForm) - UIThread.csproj", "{940D3378-AE66-41E5-9F67-065BC1CB590E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{940D3378-AE66-41E5-9F67-065BC1CB590E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{940D3378-AE66-41E5-9F67-065BC1CB590E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{940D3378-AE66-41E5-9F67-065BC1CB590E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{940D3378-AE66-41E5-9F67-065BC1CB590E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE393D57-77CF-45EB-AC9C-96939E21645C}
+	EndGlobalSection
+EndGlobal
